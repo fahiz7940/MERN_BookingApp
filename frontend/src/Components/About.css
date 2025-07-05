@@ -1,0 +1,73 @@
+.about-container {
+  padding-top: 120px;
+  padding: 40px 20px;
+  background-color: #fdfaf6;
+  color: #5C4033;
+  font-family: 'Poppins', sans-serif;
+}
+
+.about-hero {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+  margin-bottom: 80px;
+}
+
+.about-hero-text {
+  flex: 1;
+  min-width: 300px;
+}
+
+.about-hero-text h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+  color: #5C4033;
+}
+
+.about-hero-text p {
+  font-size: 1.2rem;
+  line-height: 1.7;
+  color: #7B5E57;
+}
+
+.highlight {
+  color: #A1866F;
+  font-weight: bold;
+}
+
+.about-hero-image {
+  flex: 1;
+  min-width: 300px;
+}
+
+.about-hero-image img {
+  width: 100%;
+  max-width: 500px;
+  border-radius: 15px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.2);
+  object-fit: cover;
+}
+
+.about-mission, .about-founder {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.about-mission h2,
+.about-founder h2 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  color: #5C4033;
+}
+
+.about-mission p,
+.about-founder p {
+  max-width: 800px;
+  margin: 0 auto;
+  font-size: 1.2rem;
+  line-height: 1.8;
+  color: #7B5E57;
+  padding: 0 20px;
+}
