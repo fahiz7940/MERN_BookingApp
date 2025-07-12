@@ -144,7 +144,7 @@ This project is licensed under the MIT License.
 ---
 
 ```
-<a href="#mern-bookingapp">🔙 Return to Top</a>
+[🔙 Return to Top](#mern-bookingapp)
 
 ```
 
