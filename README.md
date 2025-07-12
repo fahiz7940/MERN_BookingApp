@@ -27,26 +27,33 @@ _Built with the tools and technologies:_
 ## Table of Contents
 
 - [Overview](#overview)
+- [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Testing](#testing)
+- [Folder Structure](#folder-structure)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ---
 
 ## Overview
 
 MERN_BookingApp is a full-stack reservation management system built with modern web development tools, designed to deliver a seamless experience for developers creating booking platforms. It features a React frontend optimized with Vite for rapid development, hot module replacement, and ESLint integration to ensure code quality. The architecture supports easy expansion with TypeScript and advanced linting, while TailwindCSS provides a sleek, responsive UI. The backend, powered by Node.js and MongoDB, handles reservation data efficiently through well-defined API endpoints. Whether you're building a new booking site or enhancing an existing one, MERN_BookingApp offers a robust foundation for scalable, maintainable, and visually appealing applications.  
-**Why MERN_BookingApp?**
 
-This project simplifies the development of reservation systems by integrating modern tooling and best practices. The core features include:
+---
 
-- 🚀 **Fast Development Environment**: React setup with Vite enables hot module replacement and quick builds.
-- ✅ **Code Quality & Consistency**: ESLint configuration enforces best practices across the codebase.
-- 🎨 **Modern Styling**: TailwindCSS ensures a responsive, visually appealing user interface.
-- 📦 **Modular Architecture**: Supports easy expansion to TypeScript and advanced features.
-- 🗂️ **Backend Integration**: Node.js and MongoDB provide reliable reservation data management.
+## Features
+
+- 🚀 **Fast Development Environment** – Vite + React setup for fast reloads.
+- 🎯 **Code Quality** – ESLint ensures clean, maintainable code.
+- 💡 **Responsive UI** – Built with TailwindCSS for modern design.
+- 🔌 **Backend APIs** – Node.js and MongoDB integration for managing bookings.
+- 🧩 **Modular Architecture** – Easy to scale with clean folder structure.
+- 🔐 **Environment Variables** – Secure and configurable via `.env`.
 
 ---
 
@@ -54,17 +61,82 @@ This project simplifies the development of reservation systems by integrating mo
 
 ### Prerequisites
 
-This project requires the following dependencies:
-
 - **Programming Language**: JavaScript
-- **Package Manager**: Npm
+- **Package Manager**: npm
 
 ---
 
 ### Installation
 
-Build MERN_BookingApp from the source and install dependencies:
+```bash
+# Clone the repository
+git clone https://github.com/fahiz7940/MERN_BookingApp
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/fahiz7940/MERN_BookingApp
+# Navigate to the project directory
+cd MERN_BookingApp
+
+# Install dependencies
+npm install
+```
+
+---
+
+### Usage
+
+Start the development server:
+
+```bash
+npm start
+```
+
+---
+
+### Testing
+
+This project uses the **Jest** framework. To run tests:
+
+```bash
+npm test
+```
+
+---
+
+## Folder Structure
+
+```
+```
+└── 📁MERN_BookingApp
+    └── 📁admin  
+    └── 📁backend 
+    └── 📁frontend
+        
+```
+
+---
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request.
+
+1. Fork it
+2. Create your feature branch: `git checkout -b feature/YourFeature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin feature/YourFeature`
+5. Submit a pull request
+
+---
+
+## License
+
+This project is licensed under the MIT License.
+
+---
+
+## Contact
+
+📧 **Author:** M Fahiz  
+🔗 **GitHub:** [fahiz7940](https://github.com/fahiz7940)
+
+---
+
+🔙 [Return to Top](#mern_bookingapp)
