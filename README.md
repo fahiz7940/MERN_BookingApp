@@ -61,7 +61,7 @@ MERN_BookingApp is a full-stack reservation management system built with modern 
 
 ### Prerequisites
 
-- **Programming Language**: JavaScript
+- **Programming Language**: JavaScript, Node.js, Express.js, Mongodb, React.js 
 - **Package Manager**: npm
 
 ---
@@ -143,4 +143,4 @@ This project is licensed under the MIT License.
 
 ---
 
-🔙 [Return to Top](#mern_bookingapp)
+ <a href='#mern_bookingapp'>Return to Top 🔙</a> 
