@@ -105,9 +105,13 @@ npm test
 
 ```
 ```
+
 └── 📁MERN_BookingApp
+
     └── 📁admin  
+    
     └── 📁backend 
+    
     └── 📁frontend
         
 ```
@@ -134,7 +138,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-📧 **Author:** M Fahiz  
+📧 **Author:** Muhammed umarul Fahiz  
 🔗 **GitHub:** [fahiz7940](https://github.com/fahiz7940)
 
 ---
