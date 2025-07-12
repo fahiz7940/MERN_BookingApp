@@ -1,4 +1,4 @@
-## MERN_BOOKINGAPP
+## MERN BOOKINGAPP
 
 _Seamless Booking, Limitless Possibilities, Effortless Growth_
 
